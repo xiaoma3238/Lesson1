@@ -1,1 +1,15 @@
 erwerojweoi
+
+
+
+注册之后按照提示创建即可，非常简单。。。不再复述。
+详见参考；https://confluence.atlassian.com/display/BITBUCKET/Bitbucket+Documentation+Home中的Bitbucket 101文档
+
+－－－－－－－－－以上为初始创建－－－－－－－－－－－－－－华丽的分割线－－－－－－－－－－－－－－－以下为操作版本库－－－－－－－－－－－－－－－－－－－
+
+有了远程仓库Repostiory，我们该添加代码或者其他文件什么的了
+
+这里还是介绍两种；
+一， 使用command－line
+二， 使用SourceTree
+
